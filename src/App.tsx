@@ -4,6 +4,7 @@ import LOGO from './logo.svg';
 import { ClickCounter } from './ClickCounter';
 
 export const App = () => {
+  const name = "juyoung";
   return (
     <>
       <h1>Hello React Typescript Webpack Starter Template -{process.env.name}</h1>
