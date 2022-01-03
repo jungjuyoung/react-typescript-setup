@@ -18,7 +18,8 @@
     "plugin:jsx-a11y/recommended",
     "plugin:eslint-comments/recommended",
     "prettier/@typescript-eslint",
-    "plugin:prettier/recommended"
+    "plugin:prettier/recommended",
+    "prettier"
   ],
   "plugins": ["@typescript-eslint"],
   "rules": {
